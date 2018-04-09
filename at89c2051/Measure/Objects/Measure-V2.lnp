@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\trigger.obj" 
+TO ".\Objects\Measure-V2" 
+PRINT(".\Listings\Measure-V2.m51")
